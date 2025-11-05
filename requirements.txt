@@ -1,0 +1,9 @@
+google-genai
+redis
+numpy
+requests
+python-telegram-bot
+dotenv
+google-adk
+alpha-vantage
+pandas
